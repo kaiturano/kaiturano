@@ -1,4 +1,4 @@
-- Hi there 👋
+## Hi there 👋
 - 🔭 I’m currently working on the Space Exploration Website
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me: 
