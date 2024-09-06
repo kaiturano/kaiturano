@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 👀 I'm interested in Software Engineering
-- 🔭 I’m currently working on a conversational AI chatbot that teaches algorithms!
-- 🌱 I’m currently learning full stack development
+- 👀 I'm interested in software development
+- 🌱 I’m currently learning about C# and AngularJS
 - 🪱 Fun fact: I can do the worm!
 - 📫 LinkedIn: https://www.linkedin.com/in/kaitlyn-urano/
 
